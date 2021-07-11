@@ -3,3 +3,4 @@ changes
 changes by B
 changes by A
 changes by A again
+changes by B again
