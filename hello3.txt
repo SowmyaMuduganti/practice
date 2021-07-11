@@ -1,3 +1,4 @@
 sample text
 changes
 changes by B
+changes by A
